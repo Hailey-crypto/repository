@@ -27,6 +27,19 @@
    선택한 로또 번호 : [2, 4, 7, 10, 35, 9]
 
 
+# 🚀 실행 방법
+
+1. 저장소 클론
+```bash
+git clone https://github.com/Hailey-crypto/repository.git
+cd repository
+```
+2. 실행
+```bash
+dart run score.dart
+```
+
+
 # 📂 프로젝트 구조
 
 project_3/
