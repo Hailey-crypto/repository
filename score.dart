@@ -36,6 +36,7 @@ void main() {
     return '이 학생의 점수는 $score점 이며, 등급은 $grade입니다!';
   }
   print(testResult(84))
+
 }
 
 
@@ -57,5 +58,6 @@ void main() {
     return '이 학생의 점수는 $score점 이며, 등급은 $grade입니다!';
   }
   print(testResult(84));
+  
 }
 */
