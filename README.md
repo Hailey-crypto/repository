@@ -27,14 +27,13 @@
    선택한 로또 번호 : [2, 4, 7, 10, 35, 9]
 
 
-
 # 📂 프로젝트 구조
 
 project_3/
-    ┣ lotto.dart        # 가상의 복권 프로그램 실행 파일
-    ┣ score.dart        # 점수에 맞는 등급 출력 실행 파일
-    ┣ shopping.dart     # 가상의 쇼핑몰 결제 프로그램 실행 파일
-    ┗ README.md         # 프로젝트 설명 문서
+- score.dart        # 점수에 맞는 등급 출력 실행 파일
+- shopping.dart     # 가상의 쇼핑몰 결제 프로그램 실행 파일
+- lotto.dart        # 가상의 복권 프로그램 실행 파일
+- README.md         # 프로젝트 설명 문서
 
 
 # 📝 커밋 컨벤션
