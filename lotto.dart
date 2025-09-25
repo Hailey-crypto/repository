@@ -46,7 +46,7 @@ void main() {
       print('당첨 여부 : 2등');
     case 3:
       print('당첨 여부 : 3등');
-    case <= 2:
+    default:
       print('당첨 여부 : 당첨 실패!');
   }
 
